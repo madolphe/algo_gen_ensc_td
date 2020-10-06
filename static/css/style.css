@@ -1,0 +1,8 @@
+body{
+    background: #d6d3bc;
+    font-family: 'Gill Sans', sans-serif;
+}
+canvas{
+    border-color: black;
+    border-style: groove;
+}
