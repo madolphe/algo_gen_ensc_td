@@ -32,9 +32,6 @@ pipenv run flask run
 ```
 Suivez les instructions et profitez de l'interface graphique avec votre navigateur préféré.
 
-
-Try this markdown:
-
 ![alt text](https://github.com/madolphe/algo_gen_ensc_td/blob/main/static/images/ezgif.com-gif-maker.gif)
 
 ## Contributions
